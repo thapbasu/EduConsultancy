@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.50a3b87b.css",
-    "main.js": "/static/js/main.fae832bb.js",
-    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-4.jpg": "/static/media/img-4.a31875b76d39f6458a6e.jpg",
-    "static/media/img-3.jpg": "/static/media/img-3.6d683c0ee6824af7961a.jpg",
-    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/index.html",
-    "main.50a3b87b.css.map": "/static/css/main.50a3b87b.css.map",
-    "main.fae832bb.js.map": "/static/js/main.fae832bb.js.map"
+    "main.css": "/EduConsultancy/static/css/main.f58bb7d0.css",
+    "main.js": "/EduConsultancy/static/js/main.b54ac51a.js",
+    "static/media/img-2.jpg": "/EduConsultancy/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/EduConsultancy/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-3.jpg": "/EduConsultancy/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-1.jpg": "/EduConsultancy/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/EduConsultancy/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/EduConsultancy/index.html",
+    "main.f58bb7d0.css.map": "/EduConsultancy/static/css/main.f58bb7d0.css.map",
+    "main.b54ac51a.js.map": "/EduConsultancy/static/js/main.b54ac51a.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a3b87b.css",
-    "static/js/main.fae832bb.js"
+    "static/css/main.f58bb7d0.css",
+    "static/js/main.b54ac51a.js"
   ]
 }
